@@ -1,13 +1,12 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: element
- * Date: 3/2/2018
- * Time: 2:18 AM
+ * Created by Ademola Aina.
+ * Date: 3/9/2018
+ * Time: 4:18 AM
  */
 include_once "VigenereCipher.php";
-class ElementMvc_Security_AdvancedVigenereCipher extends ElementMvc_Security_VigenereCipher
+class AdvancedVigenereCipher extends VigenereCipher
 {
     /**
      * @param $value

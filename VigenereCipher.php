@@ -1,12 +1,11 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: element
+ * Created by Ademola Aina.
  * Date: 3/9/2018
  * Time: 2:59 AM
  */
-class ElementMvc_Security_VigenereCipher
+class VigenereCipher
 {
     /**
      * @return array
